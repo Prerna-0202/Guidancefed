@@ -23,9 +23,9 @@ python -m http.server 8000
 ## LANGUAGES AND FRAMEWORKS USED:
 
  <div>
-  <h1>Javascript</h1>
-  <h1>HTML</h1>
-  <h1>CSS</h1>
+  <h3>Javascript</h3>
+  <h3>HTML</h3>
+  <h3>CSS</h3>
  </div>
 
 
