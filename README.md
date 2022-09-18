@@ -8,8 +8,6 @@
 ### ABOUT:
 Guidancefed is a web app that helps students to find the domain of their interest and the resources for pursuing the same. It also has a discussion section where you can discuss with mentors.
 
-### DEPLOYED LINK:
-  https://guidancefed.netlify.app
 
 ### HOW TO GET STARTED?
 
